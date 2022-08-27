@@ -2,10 +2,18 @@
 
 body{
     font-family: 'Inconsolata', monospace;
+    background-color: #080d11;
 }
 
 h1{
-    color: rgb(122, 48, 21);
+    color: #daebf0;
+    text-shadow: 0 0 5px #ffb07b, 0 0 10px #a0ff7b, 0 0 20px #b442b8,
+    0 0 30px #f6ff7b, 0 0 40px #ff7b7b, 0 0 50px #7bffff, 0 0 70px #847bff,
+    0 0 100px #ff7b7b;
+}
+
+footer{
+    color: #daebf0;
     text-shadow: 0 0 5px #ffb07b, 0 0 10px #a0ff7b, 0 0 20px #b442b8,
     0 0 30px #f6ff7b, 0 0 40px #ff7b7b, 0 0 50px #7bffff, 0 0 70px #847bff,
     0 0 100px #ff7b7b;
